@@ -7,6 +7,8 @@
 
 4.支援圖形介面，遊戲結束後即離開
 
+5.hw4.pdf為作業說明檔
+
 server執行時:
 
     Tic Tac Toe Server is Running...
