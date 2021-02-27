@@ -7,6 +7,8 @@
 
 4.使用str_handle.cpp裡的函式來處理從客戶端傳來的指令
 
+5.hw3.pdf為作業說明檔
+
 操作示範:
 
 [student @ CSE ~ ]$connect (IP) (Port) (username)
