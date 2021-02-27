@@ -6,3 +6,5 @@
 3.huffman.cpp是實作檔案
 
 4.最後在client.cpp和server.cpp中引入此自定義函式庫，進行檔案的加壓縮與解壓縮
+
+5.hw2.pdf為作業說明檔
