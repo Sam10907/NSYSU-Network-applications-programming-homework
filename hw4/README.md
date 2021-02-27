@@ -1,10 +1,11 @@
-client端輸入server端的ip address 連線成功後開始進行遊戲
+# TicTacToe online game
+1.client端輸入server端的ip address 連線成功後開始進行遊戲
 
-先連進來的為'X'且可以先下
+2.先連進來的為'X'且可以先下
 
-可以同時讓五組人馬(十個client)玩遊戲
+3.可以同時讓五組人馬(十個client)玩遊戲
 
-支援圖形介面，遊戲結束後即離開
+4.支援圖形介面，遊戲結束後即離開
 
 server執行時:
 
